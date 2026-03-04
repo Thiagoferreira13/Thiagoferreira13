@@ -1,4 +1,4 @@
-# Hi 👋 I'm Thiago Ferreira
+# Hi 👋, I'm Thiago Ferreira
 
 ## ⚙️ About Me
 - Computer Science student at the Federal University of Lavras (UFLA)
