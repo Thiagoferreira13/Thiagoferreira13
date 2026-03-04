@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi 👋 I'm Thiago Ferreira
 
-<!--
-**Thiagoferreira13/Thiagoferreira13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⚙️ About Me
+- Computer Science student at the Federal University of Lavras (UFLA)
+- Focused on backend development and software architecture
+- Passionate about building scalable and well-structured systems
+- Constantly improving my problem-solving and engineering skills
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+
+### 💻 Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### 🔧 Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+### ⚙️ Tools
+- Git & GitHub  
+- Docker  
+
+---
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/thiago-ferreira-334333281  
+- Email: thferreira147@gmail.com  
+
+---
+
+⭐ Always learning, improving, and building robust solutions.
